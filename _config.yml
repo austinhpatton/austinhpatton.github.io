@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Austin H Patton"
+title                    : "Evolution is cool, I guess"
 title_separator          : "-"
-name                     : "Austin Patton"
+name                     : "Austin H Patton"
 description              : "Professional website"
 url                      : "https://austinhpatton.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
