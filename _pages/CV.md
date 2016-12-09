@@ -8,4 +8,4 @@ header:
   overlay_filter: 0.25
   caption: "<i>Gyrinophilus porphyriticus</i>"
 ---
-<object>austinhpatton.github.io/Images/A_Patton_CV_12-9-16.pdf/</object>
+<object>https://github.com/austinhpatton/austinhpatton.github.io//Images/A_Patton_CV_12-9-16.pdf/</object>
