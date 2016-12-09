@@ -8,4 +8,5 @@ header:
   overlay_filter: 0.25
   caption: "<i>Gyrinophilus porphyriticus</i>"
 ---
-<object>https://github.com/austinhpatton/austinhpatton.github.io/Images/A_Patton_CV_12-9-16.pdf/</object>
+{% raw %}<img src="https://github.com/austinhpatton/austinhpatton.github.io/Images/A_Patton_CV_12-9-16.pdf/" alt="">{% endraw %}
+
