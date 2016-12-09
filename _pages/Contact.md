@@ -5,6 +5,6 @@ author_profile: true
 permalink: /contact/
 excerpt: "pls"
 header:
-  overlay_image: austinhpatton.github.io/Images/HomeHeader.jpg
-  caption: "Looking Glass Rock, Pisgah NF"
+  overlay_image: austinhpatton.github.io/Images/BaileyRockies.jpg
+  caption: "Rocky Mountain National Park"
 ---
