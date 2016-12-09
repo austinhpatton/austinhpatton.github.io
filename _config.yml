@@ -251,5 +251,6 @@ defaults:
       path: ""
       type: pages
     values:
+      read_time: true
       layout: single
       author_profile: true
