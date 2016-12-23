@@ -11,15 +11,15 @@ header:
 ---
 <h2>Assessing the role of hybridization in macroevolutionary diversification</h2>
 <figure>
-<img src="/Images/HybDivers_Image.jpg" class="inline">
+<img src="/Images/HybDivers_Image.jpg" class="inline", height="300", width = "300">
 </figure>
 
 <h2>Exploring the relation between genome size and body size - are all salamanders macroscopic microfauna</h2>
 <figure>
-<img src="/Images/GenomeBodySize_Image.jpg" class="inline">
+<img src="/Images/GenomeBodySize_Image.jpg" class="inline", height="300", width="250.171585">
 </figure>
 
 <h2>Investigating the population and landscape genomics of hybridization</h2>
 <figure>
-<img src="/Images/CompLangGenomics_Image.jpg" class="inline">
+<img src="/Images/CompLangGenomics_Image.jpg" class="inline", height="450.17585", width="300">
 </figure>
