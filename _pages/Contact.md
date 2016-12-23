@@ -1,5 +1,5 @@
 ---
-title: "Snail mail me"
+title: "Please talk to me"
 layout: splash
 author_profile: true
 permalink: /contact/
