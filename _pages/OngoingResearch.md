@@ -7,5 +7,5 @@ excerpt: "I do things <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />"
 header:
   overlay_image: austinhpatton.github.io/Images/PjorOverhead.jpg
   overlay_filter: 0.3
-  caption: "<i>Plethodon jordani</i>L Dan Mele Photography"
+  caption: "<i>Plethodon jordani</i> Dan Mele Photography"
 ---
