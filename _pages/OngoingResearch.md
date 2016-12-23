@@ -15,7 +15,7 @@ header:
 </figure>
 
 <h2>Exploring the relation between genome size and body size</h2>
-<h3>- are all salamanders macroscopic microfauna</h3>
+<h3>Are all salamanders macroscopic microfauna?</h3>
 <figure>
 <img src="/Images/GenomeBodySize_Image.jpg" class="inline", height="300", width="250.171585">
 </figure>
