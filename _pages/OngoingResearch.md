@@ -13,6 +13,7 @@ header:
 <figure style="width: 300px">
 <img src="/Images/HybDivers_Image.jpg" class="inline">
 </figure>
+The role of hybridization has had a long contentious role in biology. Thought of as either facilitating and accelerating the lineage diversification process or as constraining it, the majority of research conducted on this topic has been at relatively small taxonomic scales. I am currently working to address this question in extant salamanders using a model of trait-dependent diversification (Hidden-State Speciation and Extinction: HiSSE). We have found that hybridization appears to accelerate speciation rates, resulting in a heightened net-diversification rate relative to non-hybridizing taxa. Thus, our results favor a view of hybridization as a generative process in species diversification. 
 
 <h2>Exploring the relation between genome size and body size</h2>
 <h3>Are all salamanders macroscopic microfauna?</h3>
