@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.3
   caption: "<i>Plethodon jordani</i> Dan Mele Photography"
 ---
+Some test text up here to initialize it
 <h2>Assessing the role of hybridization in macroevolutionary diversification</h2>
 <figure style="width: 300px">
 <img src="/Images/HybDivers_Image.jpg" class="wrap align-left">
