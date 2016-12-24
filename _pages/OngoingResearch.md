@@ -17,10 +17,10 @@ header:
 <h2>Exploring the relation between genome size and body size</h2>
 <h3>Are all salamanders macroscopic microfauna?</h3>
 <figure style="height: 300px">
-<img src="/Images/GenomeBodySize_Image.jpg" class="inline" height="300" width="250.171585">
+<img src="/Images/GenomeBodySize_Image.jpg" class="inline">
 </figure>
 
 <h2>Investigating the population and landscape genomics of hybridization</h2>
 <figure style="height: 300px">
-<img src="/Images/CompLangGenomics_Image.jpg" class="inline" width="450.17585" height="300">
+<img src="/Images/CompLangGenomics_Image.jpg" class="inline">
 </figure>
