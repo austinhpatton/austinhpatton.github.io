@@ -21,6 +21,6 @@ header:
 </figure>
 
 <h2>Investigating the population and landscape genomics of hybridization</h2>
-<figure style="height: 300px">
+<figure style="width: 300px">
 <img src="/Images/CompLangGenomics_Image.jpg" class="inline">
 </figure>
