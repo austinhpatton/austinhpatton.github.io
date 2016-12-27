@@ -7,7 +7,7 @@ excerpt: "I do things <br /> <br /> <br /> <br /> <br /> <br /> <br />"
 header:
   overlay_image: austinhpatton.github.io/Images/PjorOverhead.jpg
   overlay_filter: 0.3
-  caption: "<i>Plethodon jordani</i> Dan Mele Photography"
+  caption: "<i>Plethodon jordani</i>, Dan Mele Photography"
 ---
 <h2>Assessing the role of hybridization in macroevolutionary diversification</h2>
 <figure style="width: 350px" class="wrap align-left">
