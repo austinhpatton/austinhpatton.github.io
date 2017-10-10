@@ -6,6 +6,8 @@ main:
     url: /cv/
   - title: "Contact"
     url: /contact/
+  - title: "Caudate Biogeographic Allometry"
+    url: /Sal-Allometry/Full_Sal_Vol_Lat_Analysis.html
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
