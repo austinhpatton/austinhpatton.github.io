@@ -185,6 +185,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-seo-tag
+  - jekyll-relative-links
 
 
 # mimic GitHub Pages with --safe
