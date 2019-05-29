@@ -9,5 +9,5 @@ header:
   caption: "<i>Gyrinophilus porphyriticus</i>"
 ---
 <figure>
-<img src="/Images/A_Patton_CV_5-28-19.png" class="inline">
+<img src="/Images/A_Patton_CV_5-28-19.pdf" class="inline">
 </figure>
