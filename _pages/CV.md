@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.25
   caption: "<i>Gyrinophilus porphyriticus</i>"
 ---
+<object data="/Images/A_Patton_CV_5-28-19.pdf" width="1000" height="1000" type='application/pdf'/>
 <figure>
 <img src="/Images/A_Patton_CV_5-28-19.jpg" class="inline">
 </figure>
