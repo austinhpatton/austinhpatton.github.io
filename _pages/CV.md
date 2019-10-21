@@ -9,6 +9,6 @@ header:
   caption: "<i>Gyrinophilus porphyriticus</i>"
 ---
 <object data="/Images/A_Patton_CV_10-21-19.pdf" width="1000" height="5177" type='application/pdf'/>
-#<figure>
+<figure>
 #<img src="/Images/A_Patton_CV_5-28-19.jpg" class="inline">
-#</figure>
+</figure>
