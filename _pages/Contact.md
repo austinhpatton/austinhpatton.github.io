@@ -3,7 +3,7 @@ title: "Contact me"
 layout: splash
 author_profile: true
 permalink: /contact/
-excerpt: '<font size="4.5"> <br /> <br /> <br /><br />Austin H Patton<br />School of Biological Sciences<br />Washington State University<br />Pullman, WA 99164-4236<br /></font>'
+excerpt: '<font size="4.5"> <br /> <br /> <br /><br />Austin H. Patton<br />Department of Integrative Biology<br />University of California, Berkeley<br />Berkeley, CA 94720-3200<br /></font>'
 header:
   overlay_image: austinhpatton.github.io/Images/BaileyRockeys.jpg
   overlay_filter: 0.2
