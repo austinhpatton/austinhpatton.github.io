@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Comparative Genomics & Phylogenetics"
 title_separator          : "-"
-name                     : "Austin H Patton"
+name                     : "Austin H. Patton"
 description              : "Professional Website"
 url                      : "https://austinhpatton.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Austin Patton"
   avatar           : "/Images/avatarSmall.jpg"
-  bio              : "I'm a Ph.D. Candidate at Washington State University studying hybridization and adaptive radiation."
-  location         : "Pullman, WA"
-  email            : "austin.patton@wsu.edu"
+  bio              : "I'm a postdoctoral associate in the Martin lab at UC Berkeley, studying the genomic basis of fitness differences underlying the adaptive radiation of trophic specialist pupfish on San Salvador Island."
+  location         : "Berkeley, CA"
+  email            : "austinhpatton@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "AustinHPatton1"
+  twitter          : "AustinHPatton"
   vine             :
   weibo            :
   xing             :
